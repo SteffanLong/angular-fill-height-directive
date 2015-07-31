@@ -1,0 +1,6 @@
+{
+    "name": "anthonychu/angular-fill-height-directive",
+    "version": "0.0.1",
+    "main": ["./src/fill-height.js"],
+    "description": "A directive to change the height of a div or other block element to fill the height of window"
+}
